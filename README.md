@@ -9,7 +9,7 @@
   Libraries
 ---------
 
- * Dagger 2 - https://github.com/google/dagger
+ * **[Dagger 2](https://github.com/google/dagger)**
 
   
 # Requirements
