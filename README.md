@@ -6,6 +6,12 @@
   
   Also visit my blog: **[The developer world is yours](http://thedeveloperworldisyours.com/)**
   
+  Libraries
+---------
+
+ * Dagger - http://square.github.io/dagger
+
+  
 # Requirements
 
     - Android Studio
